@@ -1,6 +1,6 @@
 
 
-First SwiftUI project 
+First SwiftUI App
 
 - Worked with Xcode object library and the preview to generate SwiftUI code
 - Used SwiftUI modifiers to set properties for components
